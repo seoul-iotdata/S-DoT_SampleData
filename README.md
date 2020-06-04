@@ -74,6 +74,15 @@
   * ALLDATA_20200424.csv -> 파일용량 약 110mb 
   * ALLDATA_20200425.csv -> 파일용량 약 110mb 
   * ALLDATA_20200426.csv -> 파일용량 약 110mb 
+  
+ - 2020-05-25 ~ 2020-05-31 수집 데이터 (2분 간격)
+  * ALLDATA_20200525.csv -> 파일용량 약 110mb
+  * ALLDATA_20200526.csv -> 파일용량 약 110mb 
+  * ALLDATA_20200527.csv -> 파일용량 약 110mb 
+  * ALLDATA_20200528.csv -> 파일용량 약 110mb 
+  * ALLDATA_20200529.csv -> 파일용량 약 110mb 
+  * ALLDATA_20200530.csv -> 파일용량 약 110mb 
+  * ALLDATA_20200531.csv -> 파일용량 약 110mb 
 
 ## 샘플 분석 소스 
 

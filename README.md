@@ -84,6 +84,43 @@
   * ALLDATA_20200530.csv -> 파일용량 약 110mb 
   * ALLDATA_20200531.csv -> 파일용량 약 110mb 
 
+- 2020-06-24 ~ 2020-06-30 수집 데이터 (2분 간격)
+  * ALLDATA_20200624.csv -> 파일용량 약 110mb
+  * ALLDATA_20200625.csv -> 파일용량 약 110mb 
+  * ALLDATA_20200626.csv -> 파일용량 약 110mb 
+  * ALLDATA_20200627.csv -> 파일용량 약 110mb 
+  * ALLDATA_20200628.csv -> 파일용량 약 110mb 
+  * ALLDATA_20200629.csv -> 파일용량 약 110mb 
+  * ALLDATA_20200630.csv -> 파일용량 약 110mb 
+
+- 2020-07-25 ~ 2020-07-31 수집 데이터 (2분 간격)
+  * ALLDATA_20200725.csv -> 파일용량 약 110mb
+  * ALLDATA_20200726.csv -> 파일용량 약 110mb 
+  * ALLDATA_20200727.csv -> 파일용량 약 110mb 
+  * ALLDATA_20200728.csv -> 파일용량 약 110mb 
+  * ALLDATA_20200729.csv -> 파일용량 약 110mb 
+  * ALLDATA_20200730.csv -> 파일용량 약 110mb 
+  * ALLDATA_20200731.csv -> 파일용량 약 110mb 
+
+- 2020-08-25 ~ 2020-08-31 수집 데이터 (2분 간격)
+  * ALLDATA_20200825.csv -> 파일용량 약 110mb
+  * ALLDATA_20200826.csv -> 파일용량 약 110mb 
+  * ALLDATA_20200827.csv -> 파일용량 약 110mb 
+  * ALLDATA_20200828.csv -> 파일용량 약 110mb 
+  * ALLDATA_20200829.csv -> 파일용량 약 110mb 
+  * ALLDATA_20200830.csv -> 파일용량 약 110mb 
+  * ALLDATA_20200831.csv -> 파일용량 약 110mb 
+
+- 2020-09-24 ~ 2020-09-30 수집 데이터 (2분 간격)
+  * ALLDATA_20200924.csv -> 파일용량 약 110mb
+  * ALLDATA_20200925.csv -> 파일용량 약 110mb 
+  * ALLDATA_20200926.csv -> 파일용량 약 110mb 
+  * ALLDATA_20200927.csv -> 파일용량 약 110mb 
+  * ALLDATA_20200928.csv -> 파일용량 약 110mb 
+  * ALLDATA_20200929.csv -> 파일용량 약 110mb 
+  * ALLDATA_20200930.csv -> 파일용량 약 110mb 
+
+
 ## 샘플 분석 소스 
 
 ### 파이선 분석 소스 
